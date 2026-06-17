@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Archita Verma
 
-<!--
-**archita213V/archita213V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+🤖 Machine Learning & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Developer
+
+💻 DSA in Java
+
+📊 Currently learning Data Science and Deep Learning
+
+---
+
+## 🚀 Skills
+
+- Python
+- Java
+- Machine Learning
+- Data Science
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+- Data Analytics
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub: https://github.com/archita213V
+
+---
+
+⭐ Always learning and building new projects.
