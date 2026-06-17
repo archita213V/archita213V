@@ -37,7 +37,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn
+- LinkedIn: linkedin.com/in/archita-verma-b140282bb
 - GitHub: https://github.com/archita213V
 
 ---
