@@ -1,20 +1,20 @@
 # Hi, I'm Archita Verma
 
-🎓 B.Tech CSE Student
-🤖 Machine Learning & AI Enthusiast
-🐍 Python Developer
-💻 DSA in Java
-📊 Data Science Learner
+ B.Tech CSE Student
+ Machine Learning & AI Enthusiast
+ Python Developer
+ DSA in Java
+ Data Science Learner
 
 ---
 
 ##  About Me
 
-* 🎓 Pursuing B.Tech in Computer Science & Engineering
-* 🤖 Passionate about Machine Learning and Artificial Intelligence
-* 📚 Currently learning Data Science and Deep Learning
-* 💡 Interested in solving real-world problems using AI
-* 🌱 Continuously improving my coding and problem-solving skills
+*  Pursuing B.Tech in Computer Science & Engineering
+*  Passionate about Machine Learning and Artificial Intelligence
+*  Currently learning Data Science and Deep Learning
+*  Interested in solving real-world problems using AI
+*  Continuously improving my coding and problem-solving skills
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🐾 Animal Identification
 
