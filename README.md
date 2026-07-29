@@ -1,4 +1,4 @@
-# Hi 👋, I'm Archita Verma
+# Hi, I'm Archita Verma
 
 🎓 B.Tech CSE Student
 🤖 Machine Learning & AI Enthusiast
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 🎓 Pursuing B.Tech in Computer Science & Engineering
 * 🤖 Passionate about Machine Learning and Artificial Intelligence
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Programming Languages
 
@@ -44,10 +44,9 @@
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 * Machine Learning
-* Deep Learning
 * Data Structures & Algorithms
 * Data Analytics
 * Open Source Contribution
@@ -60,11 +59,11 @@
 
 * AI-powered Animal Identification System using SAM, ResNet, and FAISS for animal detection, feature embedding, and similarity-based verification..
 
-### 📊 Data Preprocessing
+###  Data Preprocessing
 
 * Handling missing values, outliers, encoding, and feature scaling.
 
-### 📈 Machine Learning Models
+### Machine Learning Models
 
 * Linear Regression
 * Logistic Regression
@@ -72,12 +71,12 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * GitHub: https://github.com/archita213V
 * LinkedIn: [www.linkedin.com/in/archita-verma-b140282bb](http://www.linkedin.com/in/archita-verma-b140282bb)
 
 ---
 
-⭐ Always learning, building, and growing as a developer.
+ Always learning, building, and growing as a developer.
 
